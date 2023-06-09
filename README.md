@@ -28,5 +28,11 @@ new paper for face recogntion
   - Link paper: https://arxiv.org/pdf/2303.02660v2.pdf
   - Link code: https://github.com/meilfang/synthaspoof
 
+# 2022
+### Face Anti Spoofing
+- Face Pasting Attack
+  - Link paper: https://arxiv.org/pdf/2210.09153v2.pdf
+  - Link code: https://github.com/bunni90/facepastingattack
+
 
 
