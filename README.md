@@ -41,15 +41,29 @@ new paper for face recogntion
   - Link paper: https://arxiv.org/pdf/2304.02556v1.pdf
   - Link code: https://github.com/rshaojimmy/multimodal-deepfake
 
-- FakeOut: Leveraging Out-of-domain Self-supervision for Multi-modal Video Deepfake Detection
-  - Link paper: https://arxiv.org/pdf/2212.00773v1.pdf
-  - Link code: https://github.com/gilikn/fakeout
-
 # 2022
 ### Face Anti Spoofing
 - Face Pasting Attack
   - Link paper: https://arxiv.org/pdf/2210.09153v2.pdf
   - Link code: https://github.com/bunni90/facepastingattack
+
+### DeepFake detection
+- FakeOut: Leveraging Out-of-domain Self-supervision for Multi-modal Video Deepfake Detection
+  - Link paper: https://arxiv.org/pdf/2212.00773v1.pdf
+  - Link code: https://github.com/gilikn/fakeout
+
+- SpecRNet: Towards Faster and More Accessible Audio DeepFake Detection
+  - Link paper: https://arxiv.org/pdf/2210.06105v1.pdf
+  - Link code: https://github.com/piotrkawa/specrnet
+
+
+
+
+
+
+
+
+
 
 
 
