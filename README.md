@@ -22,11 +22,28 @@ new paper for face recogntion
 ### Face Anti Spoofing
 - Unveiling the Two-Faced Truth: Disentangling Morphed Identities for Face Morphing Detection
   - Link paper: https://arxiv.org/pdf/2306.03002v1.pdf
-  - link code: https://github.com/netopedro/idistill
+  - Link code: https://github.com/netopedro/idistill
 
 - SynthASpoof: Developing Face Presentation Attack Detection Based on Privacy-friendly Synthetic Data
   - Link paper: https://arxiv.org/pdf/2303.02660v2.pdf
   - Link code: https://github.com/meilfang/synthaspoof
+
+### DeepFake detection
+- Improved DeepFake Detection Using Whisper Features
+  - Link paper: https://arxiv.org/pdf/2306.01428v1.pdf
+  - Link code: https://github.com/piotrkawa/deepfake-whisper-features
+
+- DeepFake-Adapter: Dual-Level Adapter for DeepFake Detection
+  - Link paper: https://arxiv.org/pdf/2306.00863v1.pdf
+  - Link code: https://github.com/rshaojimmy/deepfake-adapter
+
+- Detecting and Grounding Multi-Modal Media Manipulation
+  - Link paper: https://arxiv.org/pdf/2304.02556v1.pdf
+  - Link code: https://github.com/rshaojimmy/multimodal-deepfake
+
+- FakeOut: Leveraging Out-of-domain Self-supervision for Multi-modal Video Deepfake Detection
+  - Link paper: https://arxiv.org/pdf/2212.00773v1.pdf
+  - Link code: https://github.com/gilikn/fakeout
 
 # 2022
 ### Face Anti Spoofing
