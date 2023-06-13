@@ -43,6 +43,9 @@ new paper for face recogntion
 
 # 2022
 ### Face Anti Spoofing
+- Multi-domain Learning for Updating Face Anti-spoofing Models
+  - Link paper: https://arxiv.org/pdf/2208.11148v2.pdf
+  - Link code: https://github.com/chelsea234/multi-domain-learning-fas
 - Face Pasting Attack
   - Link paper: https://arxiv.org/pdf/2210.09153v2.pdf
   - Link code: https://github.com/bunni90/facepastingattack
