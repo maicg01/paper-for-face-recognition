@@ -20,6 +20,9 @@ new paper for face recogntion
   - Link code: https://github.com/lsibabnikz/optimization-based-improvement-of-fiqa-techniques
 
 ### Face Anti Spoofing
+- FLIP: Cross-domain Face Anti-spoofing with Language Guidance
+  - Link paper: https://arxiv.org/pdf/2309.16649v1.pdf
+  - Link code: https://github.com/koushiksrivats/flip
 - Unveiling the Two-Faced Truth: Disentangling Morphed Identities for Face Morphing Detection
   - Link paper: https://arxiv.org/pdf/2306.03002v1.pdf
   - Link code: https://github.com/netopedro/idistill
